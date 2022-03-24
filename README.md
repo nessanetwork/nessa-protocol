@@ -12,7 +12,7 @@ Before Nessa, developers would have to build custom bots related to each specifi
 
 The vision of Nessa is to solve the issues of lacking reliability, sophistication, and centralization around dapps that want to offer automatic smart contract executions within and across multiple blockchain networks in the web3 ecosystem. It was created to replace legacy centralized keeper systems with an easy to use interface and reliable infrastructure to power the next generation of DeFi, NFT and gaming application in web3. 
 
-***The infrastructure for automating dapp***
+***The infrastructure for automated smart contract executions***
 
 - Game
 - Gambling
